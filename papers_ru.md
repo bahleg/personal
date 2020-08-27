@@ -26,7 +26,7 @@
 * [Kuznetsova R., Bakhteev O. Variational Bi-domain Triplet Autoencoder // NeurIPS-2018 workshops](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_22.pdf)
 * [Kuznetsova R., Bakhteev O. Variational Bi-domain Triplet Autoencoder // KDD-2018](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_22.pdf)
 * [Kuznetsova R., Bakhteev O.,Khazov A., Ogaltsov A., Safin K. ParaPlagDet: The system of paraphrased plagiarism detection // KDD-2018 BigScholar](http://thealphalab.org/bigscholar/2018/Program.htm)
-* [Бахтеев О., "Методы машинного обучения для анализа фискальных данных" // Сириус 2018]
+* Бахтеев О., "Методы машинного обучения для анализа фискальных данных" // Сириус 2018
 * [Bakhteev O., Romanov A., Kuznetsova R. Explicit Semantic Analysis for Cross-Language Retrieval in Case of Russian-English Translation // RUSSIR-2015](http://romip.ru/russir2015/section.php?id=229)
 
 # Прочее
