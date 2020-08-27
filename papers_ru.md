@@ -15,7 +15,19 @@
 * [Бахтеев О. Ю. Восстановление пропущенных значений в разнородных шкалах с большим числом пропусков //Машинное обучение и анализ данных. – 2015. – Т. 1. – №. 11. – С. 1484-1499.](https://www.elibrary.ru/item.asp?id=24931577)
 
 # Доклады
-* []
-# Постеры
+* [Байесовский выбор наиболее правдоподобной структуры модели глубокого обучения // Интеллектуализация обработки информаци 2018](http://www.machinelearning.ru/wiki/images/1/10/BakhteevIDP18.pdf)
+* [Детектирование переводных заимствований в текстах научных статей из журналов, входящих в РИНЦ // Математические методы распознавания образов 2017](https://elibrary.ru/item.asp?id=32284813)
+* [Градиентные методы оптимизации гиперпараметров моделей глубокого обучения // Математические методы распознавания образов 2017](https://elibrary.ru/item.asp?id=32284754)
+* [Author Masking using Sequence-to-Sequence Models // CLEF 2017, PAN](https://pan.webis.de/downloads/publications/papers/bakhteev_2017.pdf)
+* [A monolingual approach to detection of text reuse in Russian-English collection // AINL FRUCT 2015](https://ieeexplore.ieee.org/abstract/document/7382960/)
+
+# Постеры и воркшопы
+* [Bakhteev O.,  Ogaltsov A.,  Khazov A.,Safin K., Kuznetsova R. CrossLang: the system of cross-lingual plagiarism detection // KDD-2019 workshops, NeurIPS-2019 workshops](https://truth-discovery-kdd2019.github.io/papers/crosslang.pdf)
+* [Kuznetsova R., Bakhteev O. Variational Bi-domain Triplet Autoencoder // NeurIPS-2018 workshops](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_22.pdf)
+* [Kuznetsova R., Bakhteev O. Variational Bi-domain Triplet Autoencoder // KDD-2018](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_22.pdf)
+* [Kuznetsova R., Bakhteev O.,Khazov A., Ogaltsov A., Safin K. ParaPlagDet: The system of paraphrased plagiarism detection // KDD-2018 BigScholar](http://thealphalab.org/bigscholar/2018/Program.htm)
+* [Бахтеев О., "Методы машинного обучения для анализа фискальных данных" // Сириус 2018]
+* [Bakhteev O., Romanov A., Kuznetsova R. Explicit Semantic Analysis for Cross-Language Retrieval in Case of Russian-English Translation // RUSSIR-2015](http://romip.ru/russir2015/section.php?id=229)
 
 # Прочее
+* [Kuznetsova R., Bakhteev O., Ogaltsov A. Variational learning across domains with triplet information //arXiv preprint arXiv:1806.08672. – 2018](https://arxiv.org/abs/1806.08672)
