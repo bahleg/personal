@@ -16,7 +16,7 @@
 * [Бахтеев О. Ю. Восстановление пропущенных значений в разнородных шкалах с большим числом пропусков //Машинное обучение и анализ данных. – 2015. – Т. 1. – №. 11. – С. 1484-1499.](https://www.elibrary.ru/item.asp?id=24931577)
 
 # Доклады
-* [Поиск почти-дубликатов в рукописных текстах школьных сочинений // Интеллектуализация обработки информаци 2020](http://www.machinelearning.ru/wiki/images/1/10/BakhteevIDP18.pdf)
+* [Поиск почти-дубликатов в рукописных текстах школьных сочинений // Интеллектуализация обработки информаци 2020](https://www.youtube.com/watch?v=ZuT6xs_mTvI&feature=youtu.be)
 * [Байесовский выбор наиболее правдоподобной структуры модели глубокого обучения // Интеллектуализация обработки информаци 2018](http://www.machinelearning.ru/wiki/images/1/10/BakhteevIDP18.pdf)
 * [Детектирование переводных заимствований в текстах научных статей из журналов, входящих в РИНЦ // Математические методы распознавания образов 2017](https://elibrary.ru/item.asp?id=32284813)
 * [Градиентные методы оптимизации гиперпараметров моделей глубокого обучения // Математические методы распознавания образов 2017](https://elibrary.ru/item.asp?id=32284754)
@@ -24,7 +24,7 @@
 * [A monolingual approach to detection of text reuse in Russian-English collection // AINL FRUCT 2015](https://ieeexplore.ieee.org/abstract/document/7382960/)
 
 # Постеры и воркшопы
-* [Bakhteev O.,  Ogaltsov A.,  Khazov A.,Safin K., Kuznetsova R. CrossLang: the system of cross-lingual plagiarism detection // KDD-2019 workshops, NeurIPS-2019 workshops](https://www.youtube.com/watch?v=ZuT6xs_mTvI&feature=youtu.be)
+* [Bakhteev O.,  Ogaltsov A.,  Khazov A.,Safin K., Kuznetsova R. CrossLang: the system of cross-lingual plagiarism detection // KDD-2019 workshops, NeurIPS-2019 workshops](https://truth-discovery-kdd2019.github.io/papers/crosslang.pdf)
 * [Kuznetsova R., Bakhteev O. Variational Bi-domain Triplet Autoencoder // NeurIPS-2018 workshops](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_22.pdf)
 * [Kuznetsova R., Bakhteev O. Variational Bi-domain Triplet Autoencoder // KDD-2018](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_22.pdf)
 * [Kuznetsova R., Bakhteev O.,Khazov A., Ogaltsov A., Safin K. ParaPlagDet: The system of paraphrased plagiarism detection // KDD-2018 BigScholar](http://thealphalab.org/bigscholar/2018/Program.htm)
