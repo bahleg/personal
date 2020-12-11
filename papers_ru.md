@@ -1,4 +1,5 @@
 # Основные публикации
+* [Грабовой А. В., Бахтеев О. Ю., Стрижов В. В. Определение релевантности параметров нейросети //Информатика и её применения. – 2019. – Т. 13. – №. 2. – С. 62-70.](http://www.mathnet.ru/links/1c555d79855d4c633a48547b538d5078/ia662.pdf)
 * [Bakhteev O., Ogaltsov A., Ostroukhov P. Fake news spreader detection using neural tweet aggregation //CLEF. – 2020.](http://ceur-ws.org/Vol-2696/paper_148.pdf)
 * [Bakhteev O. Y., Strijov V. V. Comprehensive analysis of gradient-based hyperparameter optimization algorithms //Annals of Operations Research. – 2019. – С. 1-15.](https://link.springer.com/article/10.1007/s10479-019-03286-z)
 * [Грабовой А. В., Бахтеев О. Ю., Стрижов В. В. Определение релевантности параметров нейросети //Информатика и её применения. – 2019. – Т. 13. – №. 2. – С. 62-70.](https://scholar.google.com/scholar?output=instlink&q=info:TW1SviU7pH0J:scholar.google.com/&hl=ru&as_sdt=0,5&scillfp=10800862900721812454&oi=lle)
@@ -15,6 +16,7 @@
 * [Бахтеев О. Ю. Восстановление пропущенных значений в разнородных шкалах с большим числом пропусков //Машинное обучение и анализ данных. – 2015. – Т. 1. – №. 11. – С. 1484-1499.](https://www.elibrary.ru/item.asp?id=24931577)
 
 # Доклады
+* [Поиск почти-дубликатов в рукописных текстах школьных сочинений // Интеллектуализация обработки информаци 2020](http://www.machinelearning.ru/wiki/images/1/10/BakhteevIDP18.pdf)
 * [Байесовский выбор наиболее правдоподобной структуры модели глубокого обучения // Интеллектуализация обработки информаци 2018](http://www.machinelearning.ru/wiki/images/1/10/BakhteevIDP18.pdf)
 * [Детектирование переводных заимствований в текстах научных статей из журналов, входящих в РИНЦ // Математические методы распознавания образов 2017](https://elibrary.ru/item.asp?id=32284813)
 * [Градиентные методы оптимизации гиперпараметров моделей глубокого обучения // Математические методы распознавания образов 2017](https://elibrary.ru/item.asp?id=32284754)
@@ -22,7 +24,7 @@
 * [A monolingual approach to detection of text reuse in Russian-English collection // AINL FRUCT 2015](https://ieeexplore.ieee.org/abstract/document/7382960/)
 
 # Постеры и воркшопы
-* [Bakhteev O.,  Ogaltsov A.,  Khazov A.,Safin K., Kuznetsova R. CrossLang: the system of cross-lingual plagiarism detection // KDD-2019 workshops, NeurIPS-2019 workshops](https://truth-discovery-kdd2019.github.io/papers/crosslang.pdf)
+* [Bakhteev O.,  Ogaltsov A.,  Khazov A.,Safin K., Kuznetsova R. CrossLang: the system of cross-lingual plagiarism detection // KDD-2019 workshops, NeurIPS-2019 workshops](https://www.youtube.com/watch?v=ZuT6xs_mTvI&feature=youtu.be)
 * [Kuznetsova R., Bakhteev O. Variational Bi-domain Triplet Autoencoder // NeurIPS-2018 workshops](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_22.pdf)
 * [Kuznetsova R., Bakhteev O. Variational Bi-domain Triplet Autoencoder // KDD-2018](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_22.pdf)
 * [Kuznetsova R., Bakhteev O.,Khazov A., Ogaltsov A., Safin K. ParaPlagDet: The system of paraphrased plagiarism detection // KDD-2018 BigScholar](http://thealphalab.org/bigscholar/2018/Program.htm)
