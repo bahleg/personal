@@ -1,6 +1,6 @@
 # Основные публикации
-* [Грабовой А. В., Бахтеев О. Ю., Стрижов В. В. Определение релевантности параметров нейросети //Информатика и её применения. – 2019. – Т. 13. – №. 2. – С. 62-70.](http://www.mathnet.ru/links/1c555d79855d4c633a48547b538d5078/ia662.pdf)
 * [Bakhteev O., Ogaltsov A., Ostroukhov P. Fake news spreader detection using neural tweet aggregation //CLEF. – 2020.](http://ceur-ws.org/Vol-2696/paper_148.pdf)
+* [Грабовой А. В., Бахтеев О. Ю., Стрижов В. В. Определение релевантности параметров нейросети //Информатика и её применения. – 2019. – Т. 13. – №. 2. – С. 62-70.](http://www.mathnet.ru/links/1c555d79855d4c633a48547b538d5078/ia662.pdf)
 * [Bakhteev O. Y., Strijov V. V. Comprehensive analysis of gradient-based hyperparameter optimization algorithms //Annals of Operations Research. – 2019. – С. 1-15.](https://link.springer.com/article/10.1007/s10479-019-03286-z)
 * [Грабовой А. В., Бахтеев О. Ю., Стрижов В. В. Определение релевантности параметров нейросети //Информатика и её применения. – 2019. – Т. 13. – №. 2. – С. 62-70.](https://scholar.google.com/scholar?output=instlink&q=info:TW1SviU7pH0J:scholar.google.com/&hl=ru&as_sdt=0,5&scillfp=10800862900721812454&oi=lle)
 * [Огальцов А. В., Бахтеев О. Ю. Автоматическое извлечение метаданных из научных PDF-документов //Информатика и её применения. – 2018. – Т. 12. – №. 2. – С. 75-82.](http://www.mathnet.ru/php/getFT.phtml?jrnid=ia&paperid=535&what=fullt&option_lang=rus)
@@ -32,4 +32,6 @@
 * [Bakhteev O., Romanov A., Kuznetsova R. Explicit Semantic Analysis for Cross-Language Retrieval in Case of Russian-English Translation // RUSSIR-2015](http://romip.ru/russir2015/section.php?id=229)
 
 # Прочее
+* [Бахтеев О. Ю. Байесовский выбор субоптимальной структуры модели глубокого обучения // 2020. Диссертация к. ф.-м. н. Научный руководитель: Вадим Викторович Стрижов](http://www.frccsc.ru/sites/default/files/docs/ds/002-073-05/diss/26-bahteev/ds05-26-bahteev_main.pdf?28)
+* [Бахтеев и др. Модуль поиска переводных текстовых заимствований с русского на английский язык // Свидетельство о регистрации ПО](https://www.elibrary.ru/item.asp?id=41532315)
 * [Kuznetsova R., Bakhteev O., Ogaltsov A. Variational learning across domains with triplet information //arXiv preprint arXiv:1806.08672. – 2018](https://arxiv.org/abs/1806.08672)
